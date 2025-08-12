@@ -1,4 +1,4 @@
-Membuat kontent wpu
+Rencana kontent wpu
 - Javascript
 * ES6
 * Frameworks Javascript
