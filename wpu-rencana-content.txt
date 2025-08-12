@@ -1,5 +1,7 @@
 Membuat kontent wpu
 - Javascript
+* ES6
+* Frameworks Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
